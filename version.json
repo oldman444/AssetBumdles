@@ -1,7 +1,7 @@
 {
   "bundles":[
     {
-      "name":,
+      "name":"model",
       "version": "1.0",
       "url": "https://raw.githubusercontent.com/oldman444/AssetBumdles/refs/heads/main/model"
     }
